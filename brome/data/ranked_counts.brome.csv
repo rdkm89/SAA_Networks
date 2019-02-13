@@ -1,18 +1,18 @@
-	character	lines	words	line_rank	word_rank	count_rank
-0	alicia	138	2998	3	4	3
-1	bellamie	83	1438	6	7	6
-2	bellamy_sr	21	573	13	12	12
-3	careless	232	5955	1	1	1
-4	closet	42	725	11	11	11
-5	crostill	61	1113	9	10	9
-6	fitzgerrard	7	168	14	14	14
-7	lady	156	3859	2	2	2
-8	lovely	88	1352	5	8	6
-9	page	1	12	17	17	17
-10	phebe	22	362	12	13	12
-11	prentice	3	43	15	15	15
-12	saleware	119	3398	4	3	3
-13	saveall	53	1547	10	6	8
-14	servant	2	27	16	16	16
-15	thrivewell	67	1156	8	9	8
-16	wat	68	1903	7	5	6
+,character,lines,words,line_rank,word_rank,count_rank
+0,alicia,138,2998,3,4,3
+1,bellamie,83,1438,6,7,6
+2,bellamy_sr,21,573,13,12,12
+3,careless,232,5955,1,1,1
+4,closet,42,725,11,11,11
+5,crostill,61,1113,9,10,9
+6,fitzgerrard,7,168,14,14,14
+7,lady,156,3859,2,2,2
+8,lovely,88,1352,5,8,6
+9,page,1,12,17,17,17
+10,phebe,22,362,12,13,12
+11,prentice,3,43,15,15,15
+12,saleware,119,3398,4,3,3
+13,saveall,53,1547,10,6,8
+14,servant,2,27,16,16,16
+15,thrivewell,67,1156,8,9,8
+16,wat,68,1903,7,5,6

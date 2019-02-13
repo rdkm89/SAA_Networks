@@ -1,38 +1,38 @@
-	character	lines	words	line_rank	word_rank	count_rank
-0	scrivener	1	164	24	17	20
-1	witgood	176	3746	1	1	1
-2	widow	1	11	24	32	28
-3	citizen	1	48	24	23	23
-6	hoard	158	2851	2	3	2
-7	arthur	1	5	24	33	28
-8	barber	2	5	23	33	28
-9	curti	76	1650	4	4	4
-10	gulf	7	92	18	20	19
-11	taylor	3	12	22	31	26
-12	george	9	77	16	21	18
-13	kix	2	24	23	27	25
-14	lucre	145	3136	3	2	2
-15	lancelot	26	486	10	8	9
-16	host	75	1238	5	5	5
-17	wife	8	215	17	15	16
-18	creditor_3	17	241	12	14	13
-19	perfumer	3	12	22	31	26
-20	servant	4	48	21	23	22
-21	creditor_1	64	1189	6	6	6
-22	lamprey	35	341	8	11	9
-23	drawer	11	122	15	18	16
-24	vintner	4	41	21	25	23
-25	moneylove	14	284	14	12	13
-26	dampit	59	1152	7	7	7
-27	lady	3	17	22	28	25
-28	onesiphorus	11	106	15	19	17
-29	boy	8	51	17	22	19
-30	limber	5	31	20	26	23
-31	servant_2	1	13	24	30	27
-33	creditor_2	28	388	9	9	9
-34	audrey	24	262	11	13	12
-35	huntsman	2	15	23	29	26
-36	niece	6	167	19	16	17
-37	fawl	2	15	23	29	26
-38	spichcock	5	43	20	24	22
-39	sam	16	380	13	10	11
+,character,lines,words,line_rank,word_rank,count_rank
+0,scrivener,1,164,24,17,20
+1,witgood,176,3746,1,1,1
+2,widow,1,11,24,32,28
+3,citizen,1,48,24,23,23
+6,hoard,158,2851,2,3,2
+7,arthur,1,5,24,33,28
+8,barber,2,5,23,33,28
+9,curti,76,1650,4,4,4
+10,gulf,7,92,18,20,19
+11,taylor,3,12,22,31,26
+12,george,9,77,16,21,18
+13,kix,2,24,23,27,25
+14,lucre,145,3136,3,2,2
+15,lancelot,26,486,10,8,9
+16,host,75,1238,5,5,5
+17,wife,8,215,17,15,16
+18,creditor_3,17,241,12,14,13
+19,perfumer,3,12,22,31,26
+20,servant,4,48,21,23,22
+21,creditor_1,64,1189,6,6,6
+22,lamprey,35,341,8,11,9
+23,drawer,11,122,15,18,16
+24,vintner,4,41,21,25,23
+25,moneylove,14,284,14,12,13
+26,dampit,59,1152,7,7,7
+27,lady,3,17,22,28,25
+28,onesiphorus,11,106,15,19,17
+29,boy,8,51,17,22,19
+30,limber,5,31,20,26,23
+31,servant_2,1,13,24,30,27
+33,creditor_2,28,388,9,9,9
+34,audrey,24,262,11,13,12
+35,huntsman,2,15,23,29,26
+36,niece,6,167,19,16,17
+37,fawl,2,15,23,29,26
+38,spichcock,5,43,20,24,22
+39,sam,16,380,13,10,11
