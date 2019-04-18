@@ -1,6 +1,6 @@
 # SAA_Networks
 
-This repo contains Jupyter notebooks and data relating to the paper presentation "Inheritance and social networks in three 17th century comedies" at Shakespeare Association of America 2019.
+This repo contains Jupyter notebooks and data relating to the paper "Inheritance and social networks in three 17th century comedies", presented at Shakespeare Association of America 2019.
 
 
 ## Behn, Brome, Massinger, Middleton
